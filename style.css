@@ -12,11 +12,8 @@
   --gray-500: rgba(0, 0, 0, 0.2);
   --gray-700: #0D0D0D;
 
-  --purple-300: #8284FA;
-  --purple-700: #5E60CE;
   --blue-300: #38a1f3;
-  --blue-700: #1E6F9F;
-  --red: #E25858;
+  --orange-500: #D95D39;
   
   font-size: 62.5%;
 }
@@ -71,7 +68,7 @@ a {
   font-size: 4rem;
 }
 
-.quote-song {
+.quote-author {
   margin-top: 1.5rem;
   font-size: 2.2rem;
   font-weight: 400;

@@ -40,3 +40,15 @@ const mcflyQuotes = [
     song: 'Transylvania',
   },
 ];
+
+/*
+== PERSONALIZANDO AS CITAÇÕES ==
+
+function newQuote() {
+    const quote = mcflyQuotes[Math.floor(Math.random() * mcflyQuotes.length)];
+    console.log(quote)
+}
+
+newQuote();
+
+*/
